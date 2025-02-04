@@ -1,4 +1,4 @@
 # python-projects
 Python Projects
 <br>
-OpenCV
+OpenCV - Work with images/visuals
